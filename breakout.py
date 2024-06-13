@@ -1,3 +1,4 @@
+# chase is cool
 import pygame
 import sys
 import random
