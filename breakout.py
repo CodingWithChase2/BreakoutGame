@@ -11,7 +11,7 @@ WIDTH, HEIGHT = 800, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Breakout")
 
-# Define colors
+# Define constant of the colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 COLORS = [(255, 0, 0), (255, 165, 0), (255, 255, 0), (0, 255, 0), (0, 255, 255), (0, 0, 255), (255, 0, 255)]
