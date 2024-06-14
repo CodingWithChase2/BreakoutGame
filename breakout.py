@@ -7,7 +7,7 @@ import random
 pygame.init()
 
 # Set up the display
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 800, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Breakout")
 
